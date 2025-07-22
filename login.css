@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* h1{
+    color: blue;
+    background-color:pink;
+}
+
+ /* h1 is call selector
+ color is property
+ and which color is value */
+/* #box{
+    background-color:blue;
+}
+.heading{
+    color:red;
+} */
+/* ques3:create a button
+and color 3 type */
+
+/* .textproperties{
+    /* text-align:left;
+    /* text-decoration:underline; */
+    /* text-decoration:overline; */
+    /* text-decoration:line-through;
+     */
+     /* font-weight:bold; */
+     /* font-weight:lighter; */
+     /* font-weight:700; */
+     /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+     /* line-height:2px    */
+
+     /* text-transform:uppercase; */
+/* }   */
+/* #text{
+    text-align:center;
+    text-transform:uppercase;
+    
+} */ 
+ /* #nav{
+    border:2px,solid,red;
+    height:300px;
+    width:300px;
+    padding:5px 10px 20px 30px;
+    margin:20px;
+    
+
+ }
+ .nav2{
+    border:2px,solid,black;
+    height:50px;
+    width:50px;
+    margin-top:50px;
+ } */
+#box{
+    height:100px;
+    width:100px;
+    background-color:black;
+    border:2px,solid,pink;
+    border-radius:50px;
+}
+#nav3{
+    height:auto;
+    width:auto;
+}
